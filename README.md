@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Frontlobe
-- 🌱 Learning Python and Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 Yo
+Hi my name is Frontlobe
+Learning Python and Rust
+
+
 
 <!---
 Frontlobe/Frontlobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
